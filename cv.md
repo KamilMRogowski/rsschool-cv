@@ -32,7 +32,11 @@
   - Dr. Angela Yu
 
 - CS50's Introduction to Computer Science
+
   - Harvard University
+
+- Completed all modules from C1
+  - British Council
 
 ## Skills
 
@@ -45,6 +49,7 @@
 | React           | ⭐⭐⭐     | Hooks                         |
 | English         | ⭐⭐⭐⭐⭐ | C1                            |
 | Public speaking | ⭐⭐⭐⭐   |
+| SQL             | ⭐⭐⭐⭐   |
 
 ## Code examples
 
@@ -55,3 +60,54 @@ My latest and most advanced project is a replica of the game 'Wordle,' utilizing
 [Running page](https://kamilmrogowski.github.io/Word-Masters/)
 
 [![Screenshot of working project](https://i.postimg.cc/qRQkt12B/Screenshot-from-2023-11-17-10-30-55.png)](https://postimg.cc/YGGcZfXT)
+
+## Work history
+
+---
+
+### Carrer change
+
+2022.09 - present
+
+Changing my career path to programmer, after trying various programming
+languages I decided to choose the specialty of frontend developer using React
+framework.
+
+---
+
+### Planning own business
+
+2020.04 - 2022.03
+
+While planning my own business, I learned how to analyze customer needs, contact
+suppliers, calculate operating costs and more.
+
+---
+
+### Assistant Manager
+
+2017.03 - 2020.03
+
+- Implementation of a database application based on Microsoft SQL Server with an
+  interface created in Microsoft Access
+- Maintenance and configuration of IT equipment
+- Contacting with clients
+- Managing orders
+- Inventory management
+
+## Education
+
+### Engineering management, Bachelor's degree
+
+2014.10 - 2018.07
+
+_Gdańsk University of Technology_
+
+**Academic specialization:** Information Technology in Management.
+
+**Bachelor's thesis title:** "Implementation of database application for resource
+management in company "Artus".
+
+- Member of student circle of finance and banking "Profit"
+- Member of student organization of proffesional speakers "Toastmasters"
+  - Biggest speech to a crowd of 100 people
