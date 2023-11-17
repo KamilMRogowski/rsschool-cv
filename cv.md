@@ -63,30 +63,24 @@ My latest and most advanced project is a replica of the game 'Wordle,' utilizing
 
 ## Work history
 
----
-
 ### Carrer change
 
-2022.09 - present
+_2022.09 - present_
 
 Changing my career path to programmer, after trying various programming
 languages I decided to choose the specialty of frontend developer using React
 framework.
 
----
-
 ### Planning own business
 
-2020.04 - 2022.03
+_2020.04 - 2022.03_
 
 While planning my own business, I learned how to analyze customer needs, contact
 suppliers, calculate operating costs and more.
 
----
-
 ### Assistant Manager
 
-2017.03 - 2020.03
+_2017.03 - 2020.03_
 
 - Implementation of a database application based on Microsoft SQL Server with an
   interface created in Microsoft Access
