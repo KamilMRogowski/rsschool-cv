@@ -33,3 +33,15 @@
 
 - CS50's Introduction to Computer Science
   - Harvard University
+
+## Skills
+
+| Skill           | Level      | Details                       |
+| --------------- | ---------- | ----------------------------- |
+| HTML            | ⭐⭐⭐⭐   |
+| CSS             | ⭐⭐⭐⭐   | Flex, Grid, Responsive layout |
+| JavaScript      | ⭐⭐⭐⭐   | Closures, OOP                 |
+| GIT             | ⭐⭐⭐⭐   |
+| React           | ⭐⭐⭐     | Hooks                         |
+| English         | ⭐⭐⭐⭐⭐ | C1                            |
+| Public speaking | ⭐⭐⭐⭐   |
