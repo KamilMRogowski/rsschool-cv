@@ -45,3 +45,13 @@
 | React           | ⭐⭐⭐     | Hooks                         |
 | English         | ⭐⭐⭐⭐⭐ | C1                            |
 | Public speaking | ⭐⭐⭐⭐   |
+
+## Code examples
+
+My latest and most advanced project is a replica of the game 'Wordle,' utilizing the Frontend Masters API. The game allows user input from the keyboard and checks for the existence of the word, along with the count of correct letters. After six incorrect answers, a message is displayed, revealing the correct word.
+
+[Source code](https://github.com/KamilMRogowski/Word-Masters)
+
+[Running page](https://kamilmrogowski.github.io/Word-Masters/)
+
+[![Screenshot of working project](https://i.postimg.cc/qRQkt12B/Screenshot-from-2023-11-17-10-30-55.png)](https://postimg.cc/YGGcZfXT)
