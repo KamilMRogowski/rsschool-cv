@@ -1,13 +1,13 @@
 # Kamil Rogowski
 
-As a candidate for my first frontend developer role, I have a strong grasp of
-**HTML**, solid fundamentals of **CSS** including responsive layouts, and a basic
-understanding of **React**. I also possess a good understanding of **Git** version
-control. My personal philosophy as a stoic informs my approach to work,
-emphasizing simplicity, efficiency, and self-discipline. I take a logical and
-objective approach to problem-solving, welcome constructive feedback, and
-thrive on collaborating with my team to achieve project success. I am excited
-to apply my skills and contribute to the success of the company in this role.
+> As a candidate for my first frontend developer role, I have a strong grasp of
+> **HTML**, solid fundamentals of **CSS** including responsive layouts, and a basic
+> understanding of **React**. Additionally, I possess a good understanding of **Git** version
+> control. My personal philosophy, influenced by stoicism, informs my approach to work,
+> emphasizing simplicity, efficiency, and self-discipline. I take a logical and
+> objective approach to problem-solving, welcome constructive feedback, and
+> thrive on collaborating with my team to achieve project success. Moreover, I am a fast learner and adept at acquiring knowledge from various sources, allowing me to adapt quickly to new technologies and challenges. I am excited
+> to apply my skills and contribute to the success of the company in this role.
 
 ## Contact info
 
