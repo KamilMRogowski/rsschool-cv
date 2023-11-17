@@ -32,7 +32,6 @@
   - Dr. Angela Yu
 
 - CS50's Introduction to Computer Science
-
   - Harvard University
 
 - Completed all modules from C1
