@@ -10,11 +10,12 @@
     <nav>
       <ul>
         <li><a href="#courses">Courses</a></li>
-        <li><a href="#">Skills</a></li>
-        <li><a href="#">Code examples</a></li>
-        <li><a href="#">Work history</a></li>
-        <li><a href="#">Education</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#project-examples"></a></li>
+        <li><a href="#code-examples">Code examples</a></li>
+        <li><a href="#work-history">Work history</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
     <header>
@@ -35,6 +36,7 @@
         in this role.
       </p>
     </header>
+
     <section id="courses">
       <h2>Courses</h2>
       <h3>RS School</h3>
@@ -58,18 +60,59 @@
     <section id="skills">
       <!-- Here i will present my skills with a little explanation for each of them -->
     </section>
-    <section id="code-examples">
-      <!-- Here there will be my code examples -->
+
+    <section id="project-examples">
+      <h2>Project examples</h2>
     </section>
+
+    <section id="code-examples">
+      <h2>Code examples</h2>
+      <p>This is an example of a function from project "Word Masters".</p>
+      <pre><code>
+      // If word is valid add corresponding classes
+      function displayProgress() {
+        // After validation count letters in each word
+        countTodaysWord = countLetters(todaysWord);
+        countCurrentWord = countLetters(currentWord);
+
+        for (let i = 0; i < WORD_LENGTH; i++) {
+          // We must substract word lenght to add classses from first square
+          let squareNumber = currentSquare - currentWord.length + i;
+          const square = document.querySelector(`.square-${squareNumber}`);
+          
+          // First check if letter is in word if not its wrong
+          if (todaysWord.includes(currentWord[i])) {
+            // If its in same place its correct
+            if (todaysWord[i] === currentWord[i]) {
+              square.classList.add("correct"); 
+              
+              // If there is more letters in current word then in todaysword mark is as wrong if not its semi correct
+            } else if (countCurrentWord[currentWord[i]] > countTodaysWord[currentWord[i]]) {
+              square.classList.add("wrong");
+            } else {
+              square.classList.add("semi-correct");
+            }
+          } else {
+            square.classList.add("wrong");
+        }
+      }
+      }
+      </code>
+      </pre>
+    </section>
+
     <section id="work-history">
       <!-- Here there will be my work history -->
     </section>
+
     <section id="education">
       <!-- Here is my education -->
     </section>
+
     <section id="contact">
       <!-- here are any information with contact, maybe fancy icons to social media -->
     </section>
+
     <footer>
       <!-- There are in the footer: link to your github, date, course logo with the link -->
     </footer>
